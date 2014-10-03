@@ -1,4 +1,5 @@
-tc7241
+Training Connection Class 7241 Sample App
 ======
 
-Sample contact application 
+This is a sample contact application used in class to create a simple app using local storage. This will be compiled using PhoneGap Build into a native app package. 
+
