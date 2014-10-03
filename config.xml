@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.tc7241.app"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Contact Demo</name>
+
+    <description>
+        A sample application created in Training Connection class 7241 
+    </description>
+
+    <author href="http://www.sitebabble.com" email="chris@sitebabble.com">
+        Chris Langtiw, Training Connection 
+    </author>
+
+</widget>
